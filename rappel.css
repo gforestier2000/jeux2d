@@ -1,0 +1,23 @@
+/* mon css de rappel */
+
+/* Mettre le texte aux couleur de aminum*/
+body {
+    color:greenyellow;
+    background-color: darkslategrey;
+}
+
+h1 {
+    color:darkgreen;
+    background-color: grey;
+}
+
+/* Création de la classe important */
+.important{
+    border: solid 2px red;
+}
+
+#aretenir{
+    font-weight: bold;
+    color: orangered;
+    background-color: lightgrey;
+}
